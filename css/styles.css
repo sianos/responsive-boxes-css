@@ -41,7 +41,7 @@ section {
   width: 100%;
 }
 
-#chicken {
+#box1 {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -55,7 +55,7 @@ section {
 	background-color: #D59898;
 }
 
-#beef {
+#box2 {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -70,7 +70,7 @@ section {
 	background-color: #C14543;
 }
 
-#sushi {
+#box3 {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
